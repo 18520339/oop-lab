@@ -1,3 +1,1 @@
-# OOP Labs
-
-> Thực hành Lập trình hướng đối tượng UIT
+# Thực hành Lập trình hướng đối tượng UIT
